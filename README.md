@@ -4,8 +4,9 @@
 
 
 # 数据中台架构
+![数据中台架构图 (4)](https://user-images.githubusercontent.com/106155490/170034541-8910479a-e403-4712-a144-1978235e43e9.png)
 
-![image](https://user-images.githubusercontent.com/106155490/170030511-6e1dbe13-1075-4f25-a8a8-9d836f37faad.png)
+
 
 ## 离线数仓
 
